@@ -7,6 +7,7 @@ public class wellcome {
      System.out.println("this is my project");
      
      System.out.println("We are testing jenkins integration with github");
-	}
-
+	
+    System.out.println("this is my project");
+}
 }
